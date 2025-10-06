@@ -12,9 +12,7 @@ Some of the tools and libraries used throughout this repository:
 - **TensorFlow** / **PyTorch** for deep learning  
 - **Jupyter Notebook** for experiments  
 
----
-
-## 💡 Key Highlights  
+# Self Learning
 
 - 🧠 Hands-on implementation of algorithms from scratch  
 - 📊 Visual explanations of model performance  
@@ -46,8 +44,8 @@ Through this repository, I aim to:
 
 **Nikhil**  
 Machine Learning & AI Enthusiast 🚀  
-📧 [Contact Me](mailto:your-email@example.com)  
-🌐 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
+📧 [Contact Me](mailto:aixnick@icloud.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/heyvisitor/) | [GitHub](https://github.com/Nickwontfix)  
 
 ---
 
